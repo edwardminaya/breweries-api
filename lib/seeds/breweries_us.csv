@@ -1,4 +1,4 @@
-brewery_name,type,address,website,state,state_breweries
+brewery_name,brewery_type,address,website,state,state_breweries
 Valley Brewing Co.,Brewpub,"PO Box 4653, Stockton, California, 95204",http://www.valleybrew.com/,california,284
 Valley Brewing Co.,Brewpub,"157 Adams St., Stockton, California, 95204",http://www.valleybrew.com/,california,284
 Valley Brewing Co,Microbrewery,"1950 W Freemont, Stockton, California, 95203",http://www.valleybrew.com/,california,284
@@ -660,7 +660,7 @@ Miami Brewing Company,Microbrewery,"9292 NW 101st, Miami, Florida, 33178",http:/
 McGuire's Irish Pub & Brewery (#2),Brewpub,"33 Highway 98 E., Destin, Florida, 32541",http://www.mcguiresirishpub.com/,florida,99
 McGuire's Irish Pub & Brewery (#1),Brewpub,"600 E. Gregory Street, Pensacola, Florida, 32501",http://www.mcguiresirishpub.com/,florida,99
 Market Street Pub,Brewpub,"120 SW First Ave., Gainesville, Florida, 32601",                                                                            -                                                                    ,florida,99
-Little Giant Brewery,Microbrewery,"PO Box 1018 , Anna Maria , Florida, 34216 ",                                                                            -                                                                    ,florida,99
+Little Giant Brewery,Microbrewery,"PO Box 1018 , Anna Maria , Florida, 34216",                                                                            -                                                                    ,florida,99
 Killian Bayer Brewing Co.,Microbrewery,"1000 Charleston Ave S, Fort Meade, Florida, 33841",                                                                            -                                                                    ,florida,99
 Key West Overseas Brewery,Microbrewery,"1107 Key Plaza, Key West, Florida, 33040",                                                                            -                                                                    ,florida,99
 "Kelly's Caribbean Bar, Grill & Brewery",Brewpub,"301 Whitehead St., Key West, Florida, 33040",http://www.kellyskeywest.com/,florida,99
@@ -694,7 +694,7 @@ Hops Grill & Bar (Clearwater),Brewpub,"18825 U.S. Hwy. 19 North, Clearwater, Flo
 Hops Grill & Bar (Bradenton),Brewpub-Closed,"4502 W. 14th St., Bradenton, Florida, 34207",http://www.hopsrestaurants.com/,florida,99
 Hoppers Brooker Creek Grille & Taproom,Brewpub,"36221 E. Lake Rd., Palm Harbor, Florida, 34685",                                                                            -                                                                    ,florida,99
 Hammerhead Brewing Company,Brewpub-Closed,"211 Duval St., Key West, Florida, 33040",                                                                            -                                                                    ,florida,99
-Gordon Biersch Brewery Restaurant - Miami,Brewpub,"  1201 Brickell Av, #250, Miami, Florida, 33131",http://www.gordonbiersch.com/,florida,99
+Gordon Biersch Brewery Restaurant - Miami,Brewpub,"1201 Brickell Av, #250, Miami, Florida, 33131",http://www.gordonbiersch.com/,florida,99
 "Gator Lager Beer, Inc.",Microbrewery,"645 W. Michigan St., Orlando, Florida, 32805",                                                                            -                                                                    ,florida,99
 G.T. Vito's,Brewpub-Closed,"27964 US Hwy. 19 N, Clearwater, Florida, 34621",                                                                            -                                                                    ,florida,99
 Flying Aces Brewing Co.,ContractBrewery,"P.O. Box 561357, Orlando, Florida, 32805",                                                                            -                                                                    ,florida,99
@@ -1616,7 +1616,7 @@ Barley's Smokehouse & Brewpub (No. 2),Brewpub,"1130 Dublin Rd., Columbus, Ohio, 
 Barley's Smokehouse & Brewpub,Brewpub,"467 N. High St., Columbus, Ohio, 43215",http://www.barleysbrewing.com/,ohio,56
 Anheuser-Busch Inc. - Columbus,Microbrewery,"700 E Schrock Rd., Columbus, Ohio, 43229",http://www.anheuser-busch.com/,ohio,56
 All American Brewing Co.,Microbrewery,"6528 Riverside Dr., Dublin, Ohio, 43017",                                                                            -                                                                    ,ohio,56
-"7 Bears, LLC ",ContractBrewery,"Cincinnati, Ohio",                                                                            -                                                                    ,ohio,56
+"7 Bears, LLC",ContractBrewery,"Cincinnati, Ohio",                                                                            -                                                                    ,ohio,56
 Tulsa Brewing Co.,Brewpub-Closed,"7227 S. Memorial Dr., Tulsa, Oklahoma, 74133",                                                                            -                                                                    ,oklahoma,16
 T Pauls Beer Company,ContractBrewery,"5327 E. 5th St., Tulsa, Oklahoma, 74112",                                                                            -                                                                    ,oklahoma,16
 "Royal Bavaria Brewhouse, Restaurant & Biergarten",Brewpub,"3401 S. Sooner Rd., Moore, Oklahoma, 73160",http://www.royal-bavaria.com/,oklahoma,16
