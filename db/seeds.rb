@@ -5,7 +5,7 @@ csv = CSV.parse(csv_text, :headers => true, :encoding => "ISO-8859-1")
 csv.each do |row|
   brew = Brewery.new
   brew.brewery_name = row["brewery_name"]
-  brew.brewery_type = row["type"]
+  brew.brewery_type = row["brewery_type"]
   brew.address = row["address"]
   brew.website = row["website"]
   brew.state = row["state"]
